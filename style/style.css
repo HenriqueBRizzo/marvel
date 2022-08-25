@@ -1,0 +1,62 @@
+.bg-personalite{
+    background-color: rgb(37, 37, 37) !important;
+}
+.nav-bg{
+    color: white !important;
+}
+.marvel{
+    color: red !important;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+/* body{
+    background-image: url(../img/4845746.jpg);
+    background-size: cover;
+
+} */
+.imag{
+    background-image: url(../img/4845746.jpg) !important;
+    background-size: cover !important;
+    background-position: center;
+}
+/* Footer */
+#footer{
+    background-color: rgb(37, 37, 37);
+    height: 20vh;
+}
+.footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.footer-img{
+    margin-bottom: 1rem;
+}
+.footer-img img{
+    width: 2rem;
+    height: 2rem;
+    margin-right: 1rem;
+}
+.color{
+    color: white;
+}
+.txt-personalite{
+    margin-bottom: 0rem;
+    border-radius: 0rem;
+    /* background-color: black !important; */
+    background-image: url(../img/marvellogoo.png) !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+center{
+    color: white;
+}
+.cro{
+    color: brown;
+}
+.tex{
+    color: white!important;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
